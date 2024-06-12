@@ -3,4 +3,4 @@ Disallow: /admin/
 Disallow: /login/
 Allow: /
 
-Sitemap: http://127.0.0.1:5500/sitemap.xml
+Sitemap: https://maksym-myronov.github.io/web/sitemap.xml

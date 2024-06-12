@@ -1,37 +1,36 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
-        <loc>http://127.0.0.1:5500/</loc>
+        <loc>https://maksym-myronov.github.io/web/</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>1.0</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/about.html</loc>
+        <loc>https://maksym-myronov.github.io/web/about.html</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/sounds.html</loc>
+        <loc>https://maksym-myronov.github.io/web/sounds.html</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/community.html</loc>
+        <loc>https://maksym-myronov.github.io/web/community.html</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/pricing.html</loc>
+        <loc>https://maksym-myronov.github.io/web/pricing.html</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
     </url>
     <url>
-        <loc>http://127.0.0.1:5500/blog.html</loc>
+        <loc>https://maksym-myronov.github.io/web/blog.html</loc>
         <lastmod>2024-06-12</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.8</priority>
